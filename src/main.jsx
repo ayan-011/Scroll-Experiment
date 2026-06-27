@@ -6,6 +6,6 @@ import ParallaxSite from './App.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <ParallaxSite />
+    <App />
   </StrictMode>,
 )
